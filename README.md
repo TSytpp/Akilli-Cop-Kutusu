@@ -46,4 +46,5 @@ Alt tarafta çizdiğimiz devre şemasına bakarak uygun arduino modeline göre d
 
 **Dikkat:**  Arkadaşlar daha öncede belirttiğim gibi eğer ağır bir kapak kaldırıp indirecekseniz torku daha büyük bir servo kullanmalısınız ben karton kutu olduğu için küçük kullandım ve ayrıca gücünü alternatif bir kaynaktan karşılamalısınız bunu da öncede anlatmıştım sanıyorum..
 
-Bir projenin daha sonuna geldik umarım faydalı olmuştur arkadaşlar anlamadığınız yada kafanıza takılan yerler olursa lütfen kişisel sosyal medya hesaplarımdan ulaşmayı ihmal etmeyin.. Kolay Gelsin.. 🙂
+Bir projenin daha sonuna geldik umarım faydalı olmuştur arkadaşlar anlamadığınız yada kafanıza takılan yerler olursa lütfen kişisel sosyal medya hesaplarımdan ulaşmayı ihmal etmeyin.. 
+Kolay Gelsin.. 🙂
